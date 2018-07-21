@@ -56,7 +56,7 @@ num = raw_input("Enter appropriate input:")
 # print(func(list(inputlist.keys())))
 
 #program 4
-#Incorrect code:
+#Incorrect code: (Reason for failure unknown)
 # def factorial(num, fact):
 #     if num < 1:
 #         return fact
