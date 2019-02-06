@@ -1,2 +1,2 @@
 # srm_python
-This is the repository containing all the python programs discussed in the course Python Programming (15IT322E).
+This is the repository containing all the programs discussed in the course Network Protocols and Programming (15IT313J).
